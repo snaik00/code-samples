@@ -1,15 +1,15 @@
 package org.example;
 
-public class Mainthree {
+public class Constructor {
     int y;
 
     // default constructor (created by Java)
-    Mainthree() {
+    Constructor() {
     }
   static void methodTwo()
 
     {
-    Mainthree mobj3=new  Mainthree();
+    Constructor mobj3=new Constructor();
     mobj3.y=50;
   System.out.println(mobj3.y);
     }

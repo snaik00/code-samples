@@ -1,6 +1,6 @@
 package org.example;
 
-public class Maintwo {
+public class Objectcreation {
 
     static void methodOne()
 
@@ -15,7 +15,7 @@ public class Maintwo {
     }
 
     public static void main(String[] args) {
-        Maintwo obj1= new Maintwo();
+        Objectcreation obj1= new Objectcreation();
 
        methodOne();
        obj1.methodTwo(200);
